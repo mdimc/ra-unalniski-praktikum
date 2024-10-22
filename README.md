@@ -1,2 +1,2 @@
-# ra-unalniski-praktikum
+# Računalniški praktikum
 My first repository on GitHub
